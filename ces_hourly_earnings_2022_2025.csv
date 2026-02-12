@@ -1,0 +1,481 @@
+date,industry,avg_hourly_earnings
+2022-01-01,Construction,33.85
+2022-01-01,Education & Health Services,31.29
+2022-01-01,Financial Activities,40.86
+2022-01-01,Information,45.12
+2022-01-01,Leisure & Hospitality,19.46
+2022-01-01,Manufacturing,30.53
+2022-01-01,Mining & Logging,35.39
+2022-01-01,Professional & Business Services,37.89
+2022-01-01,Retail Trade,22.58
+2022-01-01,Total Private,31.62
+2022-02-01,Construction,33.95
+2022-02-01,Education & Health Services,31.33
+2022-02-01,Financial Activities,40.78
+2022-02-01,Information,45.44
+2022-02-01,Leisure & Hospitality,19.53
+2022-02-01,Manufacturing,30.48
+2022-02-01,Mining & Logging,35.65
+2022-02-01,Professional & Business Services,38.02
+2022-02-01,Retail Trade,22.63
+2022-02-01,Total Private,31.66
+2022-03-01,Construction,34.12
+2022-03-01,Education & Health Services,31.39
+2022-03-01,Financial Activities,41.06
+2022-03-01,Information,45.48
+2022-03-01,Leisure & Hospitality,19.75
+2022-03-01,Manufacturing,30.59
+2022-03-01,Mining & Logging,35.81
+2022-03-01,Professional & Business Services,38.24
+2022-03-01,Retail Trade,22.82
+2022-03-01,Total Private,31.82
+2022-04-01,Construction,34.32
+2022-04-01,Education & Health Services,31.56
+2022-04-01,Financial Activities,41.19
+2022-04-01,Information,45.88
+2022-04-01,Leisure & Hospitality,19.87
+2022-04-01,Manufacturing,30.78
+2022-04-01,Mining & Logging,35.05
+2022-04-01,Professional & Business Services,38.49
+2022-04-01,Retail Trade,22.78
+2022-04-01,Total Private,31.96
+2022-05-01,Construction,34.54
+2022-05-01,Education & Health Services,31.69
+2022-05-01,Financial Activities,41.26
+2022-05-01,Information,46.18
+2022-05-01,Leisure & Hospitality,19.96
+2022-05-01,Manufacturing,30.83
+2022-05-01,Mining & Logging,35.45
+2022-05-01,Professional & Business Services,38.63
+2022-05-01,Retail Trade,22.83
+2022-05-01,Total Private,32.1
+2022-06-01,Construction,34.72
+2022-06-01,Education & Health Services,31.86
+2022-06-01,Financial Activities,41.49
+2022-06-01,Information,46.5
+2022-06-01,Leisure & Hospitality,20.06
+2022-06-01,Manufacturing,30.82
+2022-06-01,Mining & Logging,35.84
+2022-06-01,Professional & Business Services,38.73
+2022-06-01,Retail Trade,22.89
+2022-06-01,Total Private,32.2
+2022-07-01,Construction,34.79
+2022-07-01,Education & Health Services,32.05
+2022-07-01,Financial Activities,41.67
+2022-07-01,Information,46.71
+2022-07-01,Leisure & Hospitality,20.18
+2022-07-01,Manufacturing,30.93
+2022-07-01,Mining & Logging,36.32
+2022-07-01,Professional & Business Services,38.91
+2022-07-01,Retail Trade,23.07
+2022-07-01,Total Private,32.35
+2022-08-01,Construction,34.91
+2022-08-01,Education & Health Services,32.12
+2022-08-01,Financial Activities,41.69
+2022-08-01,Information,47.16
+2022-08-01,Leisure & Hospitality,20.31
+2022-08-01,Manufacturing,31.03
+2022-08-01,Mining & Logging,36.26
+2022-08-01,Professional & Business Services,38.99
+2022-08-01,Retail Trade,23.07
+2022-08-01,Total Private,32.44
+2022-09-01,Construction,35.08
+2022-09-01,Education & Health Services,32.1
+2022-09-01,Financial Activities,41.94
+2022-09-01,Information,47.7
+2022-09-01,Leisure & Hospitality,20.39
+2022-09-01,Manufacturing,31.12
+2022-09-01,Mining & Logging,36.35
+2022-09-01,Professional & Business Services,39.08
+2022-09-01,Retail Trade,23.11
+2022-09-01,Total Private,32.55
+2022-10-01,Construction,35.28
+2022-10-01,Education & Health Services,32.29
+2022-10-01,Financial Activities,42.0
+2022-10-01,Information,47.49
+2022-10-01,Leisure & Hospitality,20.48
+2022-10-01,Manufacturing,31.29
+2022-10-01,Mining & Logging,36.32
+2022-10-01,Professional & Business Services,39.25
+2022-10-01,Retail Trade,23.28
+2022-10-01,Total Private,32.7
+2022-11-01,Construction,35.43
+2022-11-01,Education & Health Services,32.49
+2022-11-01,Financial Activities,42.09
+2022-11-01,Information,47.51
+2022-11-01,Leisure & Hospitality,20.6
+2022-11-01,Manufacturing,31.37
+2022-11-01,Mining & Logging,36.59
+2022-11-01,Professional & Business Services,39.43
+2022-11-01,Retail Trade,23.5
+2022-11-01,Total Private,32.84
+2022-12-01,Construction,35.64
+2022-12-01,Education & Health Services,32.61
+2022-12-01,Financial Activities,42.39
+2022-12-01,Information,47.7
+2022-12-01,Leisure & Hospitality,20.81
+2022-12-01,Manufacturing,31.47
+2022-12-01,Mining & Logging,36.83
+2022-12-01,Professional & Business Services,39.55
+2022-12-01,Retail Trade,23.43
+2022-12-01,Total Private,32.96
+2023-01-01,Construction,35.63
+2023-01-01,Education & Health Services,32.67
+2023-01-01,Financial Activities,42.48
+2023-01-01,Information,47.78
+2023-01-01,Leisure & Hospitality,20.81
+2023-01-01,Manufacturing,31.65
+2023-01-01,Mining & Logging,37.06
+2023-01-01,Professional & Business Services,39.7
+2023-01-01,Retail Trade,23.54
+2023-01-01,Total Private,33.05
+2023-02-01,Construction,35.87
+2023-02-01,Education & Health Services,32.67
+2023-02-01,Financial Activities,42.53
+2023-02-01,Information,48.02
+2023-02-01,Leisure & Hospitality,20.83
+2023-02-01,Manufacturing,31.69
+2023-02-01,Mining & Logging,37.21
+2023-02-01,Professional & Business Services,39.85
+2023-02-01,Retail Trade,23.77
+2023-02-01,Total Private,33.16
+2023-03-01,Construction,35.98
+2023-03-01,Education & Health Services,32.83
+2023-03-01,Financial Activities,42.73
+2023-03-01,Information,48.19
+2023-03-01,Leisure & Hospitality,20.94
+2023-03-01,Manufacturing,31.85
+2023-03-01,Mining & Logging,37.46
+2023-03-01,Professional & Business Services,39.99
+2023-03-01,Retail Trade,23.69
+2023-03-01,Total Private,33.28
+2023-04-01,Construction,36.12
+2023-04-01,Education & Health Services,32.95
+2023-04-01,Financial Activities,42.64
+2023-04-01,Information,47.87
+2023-04-01,Leisure & Hospitality,21.02
+2023-04-01,Manufacturing,32.03
+2023-04-01,Mining & Logging,37.67
+2023-04-01,Professional & Business Services,40.23
+2023-04-01,Retail Trade,23.82
+2023-04-01,Total Private,33.42
+2023-05-01,Construction,36.27
+2023-05-01,Education & Health Services,33.03
+2023-05-01,Financial Activities,42.95
+2023-05-01,Information,48.34
+2023-05-01,Leisure & Hospitality,21.11
+2023-05-01,Manufacturing,32.15
+2023-05-01,Mining & Logging,37.98
+2023-05-01,Professional & Business Services,40.29
+2023-05-01,Retail Trade,23.79
+2023-05-01,Total Private,33.52
+2023-06-01,Construction,36.35
+2023-06-01,Education & Health Services,33.12
+2023-06-01,Financial Activities,43.3
+2023-06-01,Information,48.32
+2023-06-01,Leisure & Hospitality,21.21
+2023-06-01,Manufacturing,32.38
+2023-06-01,Mining & Logging,37.95
+2023-06-01,Professional & Business Services,40.48
+2023-06-01,Retail Trade,23.89
+2023-06-01,Total Private,33.69
+2023-07-01,Construction,36.69
+2023-07-01,Education & Health Services,33.24
+2023-07-01,Financial Activities,43.57
+2023-07-01,Information,48.34
+2023-07-01,Leisure & Hospitality,21.24
+2023-07-01,Manufacturing,32.57
+2023-07-01,Mining & Logging,38.21
+2023-07-01,Professional & Business Services,40.73
+2023-07-01,Retail Trade,23.94
+2023-07-01,Total Private,33.84
+2023-08-01,Construction,36.78
+2023-08-01,Education & Health Services,33.31
+2023-08-01,Financial Activities,43.89
+2023-08-01,Information,48.28
+2023-08-01,Leisure & Hospitality,21.29
+2023-08-01,Manufacturing,32.59
+2023-08-01,Mining & Logging,38.33
+2023-08-01,Professional & Business Services,40.72
+2023-08-01,Retail Trade,23.99
+2023-08-01,Total Private,33.89
+2023-09-01,Construction,36.84
+2023-09-01,Education & Health Services,33.42
+2023-09-01,Financial Activities,44.12
+2023-09-01,Information,48.42
+2023-09-01,Leisure & Hospitality,21.32
+2023-09-01,Manufacturing,32.76
+2023-09-01,Mining & Logging,38.79
+2023-09-01,Professional & Business Services,40.77
+2023-09-01,Retail Trade,24.08
+2023-09-01,Total Private,33.99
+2023-10-01,Construction,37.02
+2023-10-01,Education & Health Services,33.51
+2023-10-01,Financial Activities,44.18
+2023-10-01,Information,48.63
+2023-10-01,Leisure & Hospitality,21.44
+2023-10-01,Manufacturing,32.84
+2023-10-01,Mining & Logging,38.68
+2023-10-01,Professional & Business Services,40.91
+2023-10-01,Retail Trade,24.02
+2023-10-01,Total Private,34.07
+2023-11-01,Construction,37.2
+2023-11-01,Education & Health Services,33.55
+2023-11-01,Financial Activities,44.38
+2023-11-01,Information,49.18
+2023-11-01,Leisure & Hospitality,21.52
+2023-11-01,Manufacturing,33.03
+2023-11-01,Mining & Logging,38.78
+2023-11-01,Professional & Business Services,41.08
+2023-11-01,Retail Trade,24.07
+2023-11-01,Total Private,34.19
+2023-12-01,Construction,37.29
+2023-12-01,Education & Health Services,33.61
+2023-12-01,Financial Activities,44.53
+2023-12-01,Information,49.14
+2023-12-01,Leisure & Hospitality,21.6
+2023-12-01,Manufacturing,33.21
+2023-12-01,Mining & Logging,38.9
+2023-12-01,Professional & Business Services,41.22
+2023-12-01,Retail Trade,24.22
+2023-12-01,Total Private,34.31
+2024-01-01,Construction,37.54
+2024-01-01,Education & Health Services,33.71
+2024-01-01,Financial Activities,44.79
+2024-01-01,Information,49.14
+2024-01-01,Leisure & Hospitality,21.68
+2024-01-01,Manufacturing,33.34
+2024-01-01,Mining & Logging,39.22
+2024-01-01,Professional & Business Services,41.41
+2024-01-01,Retail Trade,24.23
+2024-01-01,Total Private,34.47
+2024-02-01,Construction,37.53
+2024-02-01,Education & Health Services,33.81
+2024-02-01,Financial Activities,44.96
+2024-02-01,Information,49.22
+2024-02-01,Leisure & Hospitality,21.75
+2024-02-01,Manufacturing,33.42
+2024-02-01,Mining & Logging,39.48
+2024-02-01,Professional & Business Services,41.48
+2024-02-01,Retail Trade,24.37
+2024-02-01,Total Private,34.54
+2024-03-01,Construction,37.75
+2024-03-01,Education & Health Services,33.94
+2024-03-01,Financial Activities,45.12
+2024-03-01,Information,49.41
+2024-03-01,Leisure & Hospitality,21.84
+2024-03-01,Manufacturing,33.6
+2024-03-01,Mining & Logging,39.38
+2024-03-01,Professional & Business Services,41.66
+2024-03-01,Retail Trade,24.34
+2024-03-01,Total Private,34.67
+2024-04-01,Construction,37.97
+2024-04-01,Education & Health Services,34.06
+2024-04-01,Financial Activities,45.24
+2024-04-01,Information,49.34
+2024-04-01,Leisure & Hospitality,21.87
+2024-04-01,Manufacturing,33.62
+2024-04-01,Mining & Logging,39.69
+2024-04-01,Professional & Business Services,41.79
+2024-04-01,Retail Trade,24.32
+2024-04-01,Total Private,34.75
+2024-05-01,Construction,38.0
+2024-05-01,Education & Health Services,34.2
+2024-05-01,Financial Activities,45.48
+2024-05-01,Information,49.46
+2024-05-01,Leisure & Hospitality,21.94
+2024-05-01,Manufacturing,33.8
+2024-05-01,Mining & Logging,39.62
+2024-05-01,Professional & Business Services,41.96
+2024-05-01,Retail Trade,24.44
+2024-05-01,Total Private,34.89
+2024-06-01,Construction,38.1
+2024-06-01,Education & Health Services,34.32
+2024-06-01,Financial Activities,45.52
+2024-06-01,Information,49.75
+2024-06-01,Leisure & Hospitality,22.01
+2024-06-01,Manufacturing,34.0
+2024-06-01,Mining & Logging,39.75
+2024-06-01,Professional & Business Services,42.15
+2024-06-01,Retail Trade,24.43
+2024-06-01,Total Private,35.0
+2024-07-01,Construction,38.26
+2024-07-01,Education & Health Services,34.42
+2024-07-01,Financial Activities,45.63
+2024-07-01,Information,49.92
+2024-07-01,Leisure & Hospitality,22.06
+2024-07-01,Manufacturing,34.08
+2024-07-01,Mining & Logging,39.67
+2024-07-01,Professional & Business Services,42.21
+2024-07-01,Retail Trade,24.45
+2024-07-01,Total Private,35.07
+2024-08-01,Construction,38.37
+2024-08-01,Education & Health Services,34.54
+2024-08-01,Financial Activities,45.87
+2024-08-01,Information,50.27
+2024-08-01,Leisure & Hospitality,22.14
+2024-08-01,Manufacturing,34.18
+2024-08-01,Mining & Logging,39.75
+2024-08-01,Professional & Business Services,42.45
+2024-08-01,Retail Trade,24.54
+2024-08-01,Total Private,35.23
+2024-09-01,Construction,38.59
+2024-09-01,Education & Health Services,34.69
+2024-09-01,Financial Activities,45.88
+2024-09-01,Information,50.4
+2024-09-01,Leisure & Hospitality,22.2
+2024-09-01,Manufacturing,34.26
+2024-09-01,Mining & Logging,39.91
+2024-09-01,Professional & Business Services,42.7
+2024-09-01,Retail Trade,24.59
+2024-09-01,Total Private,35.33
+2024-10-01,Construction,38.68
+2024-10-01,Education & Health Services,34.77
+2024-10-01,Financial Activities,46.11
+2024-10-01,Information,51.48
+2024-10-01,Leisure & Hospitality,22.27
+2024-10-01,Manufacturing,34.36
+2024-10-01,Mining & Logging,39.99
+2024-10-01,Professional & Business Services,42.9
+2024-10-01,Retail Trade,24.73
+2024-10-01,Total Private,35.48
+2024-11-01,Construction,38.78
+2024-11-01,Education & Health Services,34.93
+2024-11-01,Financial Activities,46.17
+2024-11-01,Information,51.4
+2024-11-01,Leisure & Hospitality,22.33
+2024-11-01,Manufacturing,34.47
+2024-11-01,Mining & Logging,40.06
+2024-11-01,Professional & Business Services,43.16
+2024-11-01,Retail Trade,24.93
+2024-11-01,Total Private,35.61
+2024-12-01,Construction,38.94
+2024-12-01,Education & Health Services,35.01
+2024-12-01,Financial Activities,46.37
+2024-12-01,Information,51.04
+2024-12-01,Leisure & Hospitality,22.4
+2024-12-01,Manufacturing,34.54
+2024-12-01,Mining & Logging,39.95
+2024-12-01,Professional & Business Services,43.33
+2024-12-01,Retail Trade,24.86
+2024-12-01,Total Private,35.68
+2025-01-01,Construction,39.07
+2025-01-01,Education & Health Services,35.13
+2025-01-01,Financial Activities,46.58
+2025-01-01,Information,51.4
+2025-01-01,Leisure & Hospitality,22.53
+2025-01-01,Manufacturing,34.73
+2025-01-01,Mining & Logging,40.21
+2025-01-01,Professional & Business Services,43.42
+2025-01-01,Retail Trade,24.97
+2025-01-01,Total Private,35.83
+2025-02-01,Construction,39.12
+2025-02-01,Education & Health Services,35.17
+2025-02-01,Financial Activities,46.73
+2025-02-01,Information,51.46
+2025-02-01,Leisure & Hospitality,22.57
+2025-02-01,Manufacturing,34.88
+2025-02-01,Mining & Logging,40.18
+2025-02-01,Professional & Business Services,43.54
+2025-02-01,Retail Trade,25.04
+2025-02-01,Total Private,35.9
+2025-03-01,Construction,39.21
+2025-03-01,Education & Health Services,35.13
+2025-03-01,Financial Activities,47.02
+2025-03-01,Information,51.43
+2025-03-01,Leisure & Hospitality,22.7
+2025-03-01,Manufacturing,35.17
+2025-03-01,Mining & Logging,40.2
+2025-03-01,Professional & Business Services,43.68
+2025-03-01,Retail Trade,25.24
+2025-03-01,Total Private,36.02
+2025-04-01,Construction,39.32
+2025-04-01,Education & Health Services,35.22
+2025-04-01,Financial Activities,47.15
+2025-04-01,Information,51.81
+2025-04-01,Leisure & Hospitality,22.7
+2025-04-01,Manufacturing,35.09
+2025-04-01,Mining & Logging,40.11
+2025-04-01,Professional & Business Services,43.76
+2025-04-01,Retail Trade,25.28
+2025-04-01,Total Private,36.08
+2025-05-01,Construction,39.44
+2025-05-01,Education & Health Services,35.4
+2025-05-01,Financial Activities,47.4
+2025-05-01,Information,52.16
+2025-05-01,Leisure & Hospitality,22.73
+2025-05-01,Manufacturing,35.25
+2025-05-01,Mining & Logging,40.26
+2025-05-01,Professional & Business Services,44.0
+2025-05-01,Retail Trade,25.35
+2025-05-01,Total Private,36.23
+2025-06-01,Construction,39.63
+2025-06-01,Education & Health Services,35.38
+2025-06-01,Financial Activities,47.4
+2025-06-01,Information,52.36
+2025-06-01,Leisure & Hospitality,22.8
+2025-06-01,Manufacturing,35.33
+2025-06-01,Mining & Logging,40.3
+2025-06-01,Professional & Business Services,44.2
+2025-06-01,Retail Trade,25.37
+2025-06-01,Total Private,36.31
+2025-07-01,Construction,39.72
+2025-07-01,Education & Health Services,35.46
+2025-07-01,Financial Activities,47.59
+2025-07-01,Information,52.5
+2025-07-01,Leisure & Hospitality,22.86
+2025-07-01,Manufacturing,35.48
+2025-07-01,Mining & Logging,40.39
+2025-07-01,Professional & Business Services,44.4
+2025-07-01,Retail Trade,25.52
+2025-07-01,Total Private,36.43
+2025-08-01,Construction,39.96
+2025-08-01,Education & Health Services,35.64
+2025-08-01,Financial Activities,47.72
+2025-08-01,Information,52.65
+2025-08-01,Leisure & Hospitality,22.96
+2025-08-01,Manufacturing,35.55
+2025-08-01,Mining & Logging,40.54
+2025-08-01,Professional & Business Services,44.62
+2025-08-01,Retail Trade,25.59
+2025-08-01,Total Private,36.58
+2025-09-01,Construction,40.0
+2025-09-01,Education & Health Services,35.55
+2025-09-01,Financial Activities,47.92
+2025-09-01,Information,52.88
+2025-09-01,Leisure & Hospitality,23.01
+2025-09-01,Manufacturing,35.67
+2025-09-01,Mining & Logging,40.36
+2025-09-01,Professional & Business Services,44.72
+2025-09-01,Retail Trade,25.62
+2025-09-01,Total Private,36.65
+2025-10-01,Construction,40.12
+2025-10-01,Education & Health Services,35.81
+2025-10-01,Financial Activities,48.18
+2025-10-01,Information,53.42
+2025-10-01,Leisure & Hospitality,23.07
+2025-10-01,Manufacturing,35.83
+2025-10-01,Mining & Logging,40.7
+2025-10-01,Professional & Business Services,44.87
+2025-10-01,Retail Trade,25.76
+2025-10-01,Total Private,36.81
+2025-11-01,Construction,40.23
+2025-11-01,Education & Health Services,35.82
+2025-11-01,Financial Activities,48.27
+2025-11-01,Information,53.28
+2025-11-01,Leisure & Hospitality,23.18
+2025-11-01,Manufacturing,35.91
+2025-11-01,Mining & Logging,40.54
+2025-11-01,Professional & Business Services,44.97
+2025-11-01,Retail Trade,25.93
+2025-11-01,Total Private,36.9
+2025-12-01,Construction,40.37
+2025-12-01,Education & Health Services,35.91
+2025-12-01,Financial Activities,48.53
+2025-12-01,Information,53.61
+2025-12-01,Leisure & Hospitality,23.28
+2025-12-01,Manufacturing,36.07
+2025-12-01,Mining & Logging,40.87
+2025-12-01,Professional & Business Services,45.07
+2025-12-01,Retail Trade,26.05
+2025-12-01,Total Private,37.02
