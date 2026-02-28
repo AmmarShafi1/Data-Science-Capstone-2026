@@ -43,12 +43,21 @@ CES_BUCKET_TO_NAICS2 = {
     "construction": {"23"},
     "mining_logging": {"21"},
     "other_services": {"81"},
-
-    # If you have these in CES
-    "government": {"92"},  # (OEWS often uses 92 for public admin; sometimes government is treated differently)
-    # Total private is "all private industries" => everything except government-ish.
-    # We'll compute it as the employment-weighted mean across all NAICS2 in your OEWS.
     "total_private": None,
+}
+
+INDUSTRY_TO_BUCKET = {
+    "Information": "information",
+    "Financial Activities": "financial_activities",
+    "Professional & Business Services": "professional_business_services",
+    "Education & Health Services": "education_health",
+    "Leisure & Hospitality": "leisure_hospitality",
+    "Retail Trade": "trade_transportation_utilities",
+    "Manufacturing": "manufacturing",
+    "Construction": "construction",
+    "Mining & Logging": "mining_logging",
+    "Other Services": "other_services",
+    "Total Private": "total_private",
 }
 
 # =========================
@@ -180,13 +189,18 @@ print(f"Wrote {OUT_AI_BY_CES} ({len(ai_by_ces)} CES buckets)")
 # 5) MERGE INTO CES MONTHLY WAGES
 # =========================
 ces = pd.read_csv(CES_WAGES_PATH)
+ces = ces.copy()
 
-# Expect something like: industry_bucket, date, avg_hourly_earnings (your earlier format)
-needed = {"industry_bucket", "avg_hourly_earnings"}
+# Expect something like: industry, date, avg_hourly_earnings (your earlier format)
+needed = {"industry", "avg_hourly_earnings"}
 missing = needed - set(ces.columns)
 if missing:
     raise ValueError(f"CES file missing expected columns: {missing}. "
                      f"Found columns: {list(ces.columns)}")
+
+ces["industry_bucket"] = ces["industry"].map(INDUSTRY_TO_BUCKET)
+ces = ces[ces["industry_bucket"].notna()]
+ces = ces[ces["industry_bucket"] != "government"]
 
 panel = ces.merge(ai_by_ces, on="industry_bucket", how="left")
 

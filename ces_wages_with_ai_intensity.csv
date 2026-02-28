@@ -1,0 +1,481 @@
+date,industry,avg_hourly_earnings,industry_bucket,ai_intensity
+2022-01-01,Construction,33.85,construction,0.1820469629844922
+2022-01-01,Education & Health Services,31.29,education_health,0.18753410822571615
+2022-01-01,Financial Activities,40.86,financial_activities,0.1949278462573418
+2022-01-01,Information,45.12,information,0.19532162262670064
+2022-01-01,Leisure & Hospitality,19.46,leisure_hospitality,0.18589850479139253
+2022-01-01,Manufacturing,30.53,manufacturing,0.1836635812227041
+2022-01-01,Mining & Logging,35.39,mining_logging,0.18932441964122015
+2022-01-01,Professional & Business Services,37.89,professional_business_services,0.1811718476462764
+2022-01-01,Retail Trade,22.58,trade_transportation_utilities,0.18755945361799964
+2022-01-01,Total Private,31.62,total_private,0.17866588632477437
+2022-02-01,Construction,33.95,construction,0.1820469629844922
+2022-02-01,Education & Health Services,31.33,education_health,0.18753410822571615
+2022-02-01,Financial Activities,40.78,financial_activities,0.1949278462573418
+2022-02-01,Information,45.44,information,0.19532162262670064
+2022-02-01,Leisure & Hospitality,19.53,leisure_hospitality,0.18589850479139253
+2022-02-01,Manufacturing,30.48,manufacturing,0.1836635812227041
+2022-02-01,Mining & Logging,35.65,mining_logging,0.18932441964122015
+2022-02-01,Professional & Business Services,38.02,professional_business_services,0.1811718476462764
+2022-02-01,Retail Trade,22.63,trade_transportation_utilities,0.18755945361799964
+2022-02-01,Total Private,31.66,total_private,0.17866588632477437
+2022-03-01,Construction,34.12,construction,0.1820469629844922
+2022-03-01,Education & Health Services,31.39,education_health,0.18753410822571615
+2022-03-01,Financial Activities,41.06,financial_activities,0.1949278462573418
+2022-03-01,Information,45.48,information,0.19532162262670064
+2022-03-01,Leisure & Hospitality,19.75,leisure_hospitality,0.18589850479139253
+2022-03-01,Manufacturing,30.59,manufacturing,0.1836635812227041
+2022-03-01,Mining & Logging,35.81,mining_logging,0.18932441964122015
+2022-03-01,Professional & Business Services,38.24,professional_business_services,0.1811718476462764
+2022-03-01,Retail Trade,22.82,trade_transportation_utilities,0.18755945361799964
+2022-03-01,Total Private,31.82,total_private,0.17866588632477437
+2022-04-01,Construction,34.32,construction,0.1820469629844922
+2022-04-01,Education & Health Services,31.56,education_health,0.18753410822571615
+2022-04-01,Financial Activities,41.19,financial_activities,0.1949278462573418
+2022-04-01,Information,45.88,information,0.19532162262670064
+2022-04-01,Leisure & Hospitality,19.87,leisure_hospitality,0.18589850479139253
+2022-04-01,Manufacturing,30.78,manufacturing,0.1836635812227041
+2022-04-01,Mining & Logging,35.05,mining_logging,0.18932441964122015
+2022-04-01,Professional & Business Services,38.49,professional_business_services,0.1811718476462764
+2022-04-01,Retail Trade,22.78,trade_transportation_utilities,0.18755945361799964
+2022-04-01,Total Private,31.96,total_private,0.17866588632477437
+2022-05-01,Construction,34.54,construction,0.1820469629844922
+2022-05-01,Education & Health Services,31.69,education_health,0.18753410822571615
+2022-05-01,Financial Activities,41.26,financial_activities,0.1949278462573418
+2022-05-01,Information,46.18,information,0.19532162262670064
+2022-05-01,Leisure & Hospitality,19.96,leisure_hospitality,0.18589850479139253
+2022-05-01,Manufacturing,30.83,manufacturing,0.1836635812227041
+2022-05-01,Mining & Logging,35.45,mining_logging,0.18932441964122015
+2022-05-01,Professional & Business Services,38.63,professional_business_services,0.1811718476462764
+2022-05-01,Retail Trade,22.83,trade_transportation_utilities,0.18755945361799964
+2022-05-01,Total Private,32.1,total_private,0.17866588632477437
+2022-06-01,Construction,34.72,construction,0.1820469629844922
+2022-06-01,Education & Health Services,31.86,education_health,0.18753410822571615
+2022-06-01,Financial Activities,41.49,financial_activities,0.1949278462573418
+2022-06-01,Information,46.5,information,0.19532162262670064
+2022-06-01,Leisure & Hospitality,20.06,leisure_hospitality,0.18589850479139253
+2022-06-01,Manufacturing,30.82,manufacturing,0.1836635812227041
+2022-06-01,Mining & Logging,35.84,mining_logging,0.18932441964122015
+2022-06-01,Professional & Business Services,38.73,professional_business_services,0.1811718476462764
+2022-06-01,Retail Trade,22.89,trade_transportation_utilities,0.18755945361799964
+2022-06-01,Total Private,32.2,total_private,0.17866588632477437
+2022-07-01,Construction,34.79,construction,0.1820469629844922
+2022-07-01,Education & Health Services,32.05,education_health,0.18753410822571615
+2022-07-01,Financial Activities,41.67,financial_activities,0.1949278462573418
+2022-07-01,Information,46.71,information,0.19532162262670064
+2022-07-01,Leisure & Hospitality,20.18,leisure_hospitality,0.18589850479139253
+2022-07-01,Manufacturing,30.93,manufacturing,0.1836635812227041
+2022-07-01,Mining & Logging,36.32,mining_logging,0.18932441964122015
+2022-07-01,Professional & Business Services,38.91,professional_business_services,0.1811718476462764
+2022-07-01,Retail Trade,23.07,trade_transportation_utilities,0.18755945361799964
+2022-07-01,Total Private,32.35,total_private,0.17866588632477437
+2022-08-01,Construction,34.91,construction,0.1820469629844922
+2022-08-01,Education & Health Services,32.12,education_health,0.18753410822571615
+2022-08-01,Financial Activities,41.69,financial_activities,0.1949278462573418
+2022-08-01,Information,47.16,information,0.19532162262670064
+2022-08-01,Leisure & Hospitality,20.31,leisure_hospitality,0.18589850479139253
+2022-08-01,Manufacturing,31.03,manufacturing,0.1836635812227041
+2022-08-01,Mining & Logging,36.26,mining_logging,0.18932441964122015
+2022-08-01,Professional & Business Services,38.99,professional_business_services,0.1811718476462764
+2022-08-01,Retail Trade,23.07,trade_transportation_utilities,0.18755945361799964
+2022-08-01,Total Private,32.44,total_private,0.17866588632477437
+2022-09-01,Construction,35.08,construction,0.1820469629844922
+2022-09-01,Education & Health Services,32.1,education_health,0.18753410822571615
+2022-09-01,Financial Activities,41.94,financial_activities,0.1949278462573418
+2022-09-01,Information,47.7,information,0.19532162262670064
+2022-09-01,Leisure & Hospitality,20.39,leisure_hospitality,0.18589850479139253
+2022-09-01,Manufacturing,31.12,manufacturing,0.1836635812227041
+2022-09-01,Mining & Logging,36.35,mining_logging,0.18932441964122015
+2022-09-01,Professional & Business Services,39.08,professional_business_services,0.1811718476462764
+2022-09-01,Retail Trade,23.11,trade_transportation_utilities,0.18755945361799964
+2022-09-01,Total Private,32.55,total_private,0.17866588632477437
+2022-10-01,Construction,35.28,construction,0.1820469629844922
+2022-10-01,Education & Health Services,32.29,education_health,0.18753410822571615
+2022-10-01,Financial Activities,42.0,financial_activities,0.1949278462573418
+2022-10-01,Information,47.49,information,0.19532162262670064
+2022-10-01,Leisure & Hospitality,20.48,leisure_hospitality,0.18589850479139253
+2022-10-01,Manufacturing,31.29,manufacturing,0.1836635812227041
+2022-10-01,Mining & Logging,36.32,mining_logging,0.18932441964122015
+2022-10-01,Professional & Business Services,39.25,professional_business_services,0.1811718476462764
+2022-10-01,Retail Trade,23.28,trade_transportation_utilities,0.18755945361799964
+2022-10-01,Total Private,32.7,total_private,0.17866588632477437
+2022-11-01,Construction,35.43,construction,0.1820469629844922
+2022-11-01,Education & Health Services,32.49,education_health,0.18753410822571615
+2022-11-01,Financial Activities,42.09,financial_activities,0.1949278462573418
+2022-11-01,Information,47.51,information,0.19532162262670064
+2022-11-01,Leisure & Hospitality,20.6,leisure_hospitality,0.18589850479139253
+2022-11-01,Manufacturing,31.37,manufacturing,0.1836635812227041
+2022-11-01,Mining & Logging,36.59,mining_logging,0.18932441964122015
+2022-11-01,Professional & Business Services,39.43,professional_business_services,0.1811718476462764
+2022-11-01,Retail Trade,23.5,trade_transportation_utilities,0.18755945361799964
+2022-11-01,Total Private,32.84,total_private,0.17866588632477437
+2022-12-01,Construction,35.64,construction,0.1820469629844922
+2022-12-01,Education & Health Services,32.61,education_health,0.18753410822571615
+2022-12-01,Financial Activities,42.39,financial_activities,0.1949278462573418
+2022-12-01,Information,47.7,information,0.19532162262670064
+2022-12-01,Leisure & Hospitality,20.81,leisure_hospitality,0.18589850479139253
+2022-12-01,Manufacturing,31.47,manufacturing,0.1836635812227041
+2022-12-01,Mining & Logging,36.83,mining_logging,0.18932441964122015
+2022-12-01,Professional & Business Services,39.55,professional_business_services,0.1811718476462764
+2022-12-01,Retail Trade,23.43,trade_transportation_utilities,0.18755945361799964
+2022-12-01,Total Private,32.96,total_private,0.17866588632477437
+2023-01-01,Construction,35.63,construction,0.1820469629844922
+2023-01-01,Education & Health Services,32.67,education_health,0.18753410822571615
+2023-01-01,Financial Activities,42.48,financial_activities,0.1949278462573418
+2023-01-01,Information,47.78,information,0.19532162262670064
+2023-01-01,Leisure & Hospitality,20.81,leisure_hospitality,0.18589850479139253
+2023-01-01,Manufacturing,31.65,manufacturing,0.1836635812227041
+2023-01-01,Mining & Logging,37.06,mining_logging,0.18932441964122015
+2023-01-01,Professional & Business Services,39.7,professional_business_services,0.1811718476462764
+2023-01-01,Retail Trade,23.54,trade_transportation_utilities,0.18755945361799964
+2023-01-01,Total Private,33.05,total_private,0.17866588632477437
+2023-02-01,Construction,35.87,construction,0.1820469629844922
+2023-02-01,Education & Health Services,32.67,education_health,0.18753410822571615
+2023-02-01,Financial Activities,42.53,financial_activities,0.1949278462573418
+2023-02-01,Information,48.02,information,0.19532162262670064
+2023-02-01,Leisure & Hospitality,20.83,leisure_hospitality,0.18589850479139253
+2023-02-01,Manufacturing,31.69,manufacturing,0.1836635812227041
+2023-02-01,Mining & Logging,37.21,mining_logging,0.18932441964122015
+2023-02-01,Professional & Business Services,39.85,professional_business_services,0.1811718476462764
+2023-02-01,Retail Trade,23.77,trade_transportation_utilities,0.18755945361799964
+2023-02-01,Total Private,33.16,total_private,0.17866588632477437
+2023-03-01,Construction,35.98,construction,0.1820469629844922
+2023-03-01,Education & Health Services,32.83,education_health,0.18753410822571615
+2023-03-01,Financial Activities,42.73,financial_activities,0.1949278462573418
+2023-03-01,Information,48.19,information,0.19532162262670064
+2023-03-01,Leisure & Hospitality,20.94,leisure_hospitality,0.18589850479139253
+2023-03-01,Manufacturing,31.85,manufacturing,0.1836635812227041
+2023-03-01,Mining & Logging,37.46,mining_logging,0.18932441964122015
+2023-03-01,Professional & Business Services,39.99,professional_business_services,0.1811718476462764
+2023-03-01,Retail Trade,23.69,trade_transportation_utilities,0.18755945361799964
+2023-03-01,Total Private,33.28,total_private,0.17866588632477437
+2023-04-01,Construction,36.12,construction,0.1820469629844922
+2023-04-01,Education & Health Services,32.95,education_health,0.18753410822571615
+2023-04-01,Financial Activities,42.64,financial_activities,0.1949278462573418
+2023-04-01,Information,47.87,information,0.19532162262670064
+2023-04-01,Leisure & Hospitality,21.02,leisure_hospitality,0.18589850479139253
+2023-04-01,Manufacturing,32.03,manufacturing,0.1836635812227041
+2023-04-01,Mining & Logging,37.67,mining_logging,0.18932441964122015
+2023-04-01,Professional & Business Services,40.23,professional_business_services,0.1811718476462764
+2023-04-01,Retail Trade,23.82,trade_transportation_utilities,0.18755945361799964
+2023-04-01,Total Private,33.42,total_private,0.17866588632477437
+2023-05-01,Construction,36.27,construction,0.1820469629844922
+2023-05-01,Education & Health Services,33.03,education_health,0.18753410822571615
+2023-05-01,Financial Activities,42.95,financial_activities,0.1949278462573418
+2023-05-01,Information,48.34,information,0.19532162262670064
+2023-05-01,Leisure & Hospitality,21.11,leisure_hospitality,0.18589850479139253
+2023-05-01,Manufacturing,32.15,manufacturing,0.1836635812227041
+2023-05-01,Mining & Logging,37.98,mining_logging,0.18932441964122015
+2023-05-01,Professional & Business Services,40.29,professional_business_services,0.1811718476462764
+2023-05-01,Retail Trade,23.79,trade_transportation_utilities,0.18755945361799964
+2023-05-01,Total Private,33.52,total_private,0.17866588632477437
+2023-06-01,Construction,36.35,construction,0.1820469629844922
+2023-06-01,Education & Health Services,33.12,education_health,0.18753410822571615
+2023-06-01,Financial Activities,43.3,financial_activities,0.1949278462573418
+2023-06-01,Information,48.32,information,0.19532162262670064
+2023-06-01,Leisure & Hospitality,21.21,leisure_hospitality,0.18589850479139253
+2023-06-01,Manufacturing,32.38,manufacturing,0.1836635812227041
+2023-06-01,Mining & Logging,37.95,mining_logging,0.18932441964122015
+2023-06-01,Professional & Business Services,40.48,professional_business_services,0.1811718476462764
+2023-06-01,Retail Trade,23.89,trade_transportation_utilities,0.18755945361799964
+2023-06-01,Total Private,33.69,total_private,0.17866588632477437
+2023-07-01,Construction,36.69,construction,0.1820469629844922
+2023-07-01,Education & Health Services,33.24,education_health,0.18753410822571615
+2023-07-01,Financial Activities,43.57,financial_activities,0.1949278462573418
+2023-07-01,Information,48.34,information,0.19532162262670064
+2023-07-01,Leisure & Hospitality,21.24,leisure_hospitality,0.18589850479139253
+2023-07-01,Manufacturing,32.57,manufacturing,0.1836635812227041
+2023-07-01,Mining & Logging,38.21,mining_logging,0.18932441964122015
+2023-07-01,Professional & Business Services,40.73,professional_business_services,0.1811718476462764
+2023-07-01,Retail Trade,23.94,trade_transportation_utilities,0.18755945361799964
+2023-07-01,Total Private,33.84,total_private,0.17866588632477437
+2023-08-01,Construction,36.78,construction,0.1820469629844922
+2023-08-01,Education & Health Services,33.31,education_health,0.18753410822571615
+2023-08-01,Financial Activities,43.89,financial_activities,0.1949278462573418
+2023-08-01,Information,48.28,information,0.19532162262670064
+2023-08-01,Leisure & Hospitality,21.29,leisure_hospitality,0.18589850479139253
+2023-08-01,Manufacturing,32.59,manufacturing,0.1836635812227041
+2023-08-01,Mining & Logging,38.33,mining_logging,0.18932441964122015
+2023-08-01,Professional & Business Services,40.72,professional_business_services,0.1811718476462764
+2023-08-01,Retail Trade,23.99,trade_transportation_utilities,0.18755945361799964
+2023-08-01,Total Private,33.89,total_private,0.17866588632477437
+2023-09-01,Construction,36.84,construction,0.1820469629844922
+2023-09-01,Education & Health Services,33.42,education_health,0.18753410822571615
+2023-09-01,Financial Activities,44.12,financial_activities,0.1949278462573418
+2023-09-01,Information,48.42,information,0.19532162262670064
+2023-09-01,Leisure & Hospitality,21.32,leisure_hospitality,0.18589850479139253
+2023-09-01,Manufacturing,32.76,manufacturing,0.1836635812227041
+2023-09-01,Mining & Logging,38.79,mining_logging,0.18932441964122015
+2023-09-01,Professional & Business Services,40.77,professional_business_services,0.1811718476462764
+2023-09-01,Retail Trade,24.08,trade_transportation_utilities,0.18755945361799964
+2023-09-01,Total Private,33.99,total_private,0.17866588632477437
+2023-10-01,Construction,37.02,construction,0.1820469629844922
+2023-10-01,Education & Health Services,33.51,education_health,0.18753410822571615
+2023-10-01,Financial Activities,44.18,financial_activities,0.1949278462573418
+2023-10-01,Information,48.63,information,0.19532162262670064
+2023-10-01,Leisure & Hospitality,21.44,leisure_hospitality,0.18589850479139253
+2023-10-01,Manufacturing,32.84,manufacturing,0.1836635812227041
+2023-10-01,Mining & Logging,38.68,mining_logging,0.18932441964122015
+2023-10-01,Professional & Business Services,40.91,professional_business_services,0.1811718476462764
+2023-10-01,Retail Trade,24.02,trade_transportation_utilities,0.18755945361799964
+2023-10-01,Total Private,34.07,total_private,0.17866588632477437
+2023-11-01,Construction,37.2,construction,0.1820469629844922
+2023-11-01,Education & Health Services,33.55,education_health,0.18753410822571615
+2023-11-01,Financial Activities,44.38,financial_activities,0.1949278462573418
+2023-11-01,Information,49.18,information,0.19532162262670064
+2023-11-01,Leisure & Hospitality,21.52,leisure_hospitality,0.18589850479139253
+2023-11-01,Manufacturing,33.03,manufacturing,0.1836635812227041
+2023-11-01,Mining & Logging,38.78,mining_logging,0.18932441964122015
+2023-11-01,Professional & Business Services,41.08,professional_business_services,0.1811718476462764
+2023-11-01,Retail Trade,24.07,trade_transportation_utilities,0.18755945361799964
+2023-11-01,Total Private,34.19,total_private,0.17866588632477437
+2023-12-01,Construction,37.29,construction,0.1820469629844922
+2023-12-01,Education & Health Services,33.61,education_health,0.18753410822571615
+2023-12-01,Financial Activities,44.53,financial_activities,0.1949278462573418
+2023-12-01,Information,49.14,information,0.19532162262670064
+2023-12-01,Leisure & Hospitality,21.6,leisure_hospitality,0.18589850479139253
+2023-12-01,Manufacturing,33.21,manufacturing,0.1836635812227041
+2023-12-01,Mining & Logging,38.9,mining_logging,0.18932441964122015
+2023-12-01,Professional & Business Services,41.22,professional_business_services,0.1811718476462764
+2023-12-01,Retail Trade,24.22,trade_transportation_utilities,0.18755945361799964
+2023-12-01,Total Private,34.31,total_private,0.17866588632477437
+2024-01-01,Construction,37.54,construction,0.1820469629844922
+2024-01-01,Education & Health Services,33.71,education_health,0.18753410822571615
+2024-01-01,Financial Activities,44.79,financial_activities,0.1949278462573418
+2024-01-01,Information,49.14,information,0.19532162262670064
+2024-01-01,Leisure & Hospitality,21.68,leisure_hospitality,0.18589850479139253
+2024-01-01,Manufacturing,33.34,manufacturing,0.1836635812227041
+2024-01-01,Mining & Logging,39.22,mining_logging,0.18932441964122015
+2024-01-01,Professional & Business Services,41.41,professional_business_services,0.1811718476462764
+2024-01-01,Retail Trade,24.23,trade_transportation_utilities,0.18755945361799964
+2024-01-01,Total Private,34.47,total_private,0.17866588632477437
+2024-02-01,Construction,37.53,construction,0.1820469629844922
+2024-02-01,Education & Health Services,33.81,education_health,0.18753410822571615
+2024-02-01,Financial Activities,44.96,financial_activities,0.1949278462573418
+2024-02-01,Information,49.22,information,0.19532162262670064
+2024-02-01,Leisure & Hospitality,21.75,leisure_hospitality,0.18589850479139253
+2024-02-01,Manufacturing,33.42,manufacturing,0.1836635812227041
+2024-02-01,Mining & Logging,39.48,mining_logging,0.18932441964122015
+2024-02-01,Professional & Business Services,41.48,professional_business_services,0.1811718476462764
+2024-02-01,Retail Trade,24.37,trade_transportation_utilities,0.18755945361799964
+2024-02-01,Total Private,34.54,total_private,0.17866588632477437
+2024-03-01,Construction,37.75,construction,0.1820469629844922
+2024-03-01,Education & Health Services,33.94,education_health,0.18753410822571615
+2024-03-01,Financial Activities,45.12,financial_activities,0.1949278462573418
+2024-03-01,Information,49.41,information,0.19532162262670064
+2024-03-01,Leisure & Hospitality,21.84,leisure_hospitality,0.18589850479139253
+2024-03-01,Manufacturing,33.6,manufacturing,0.1836635812227041
+2024-03-01,Mining & Logging,39.38,mining_logging,0.18932441964122015
+2024-03-01,Professional & Business Services,41.66,professional_business_services,0.1811718476462764
+2024-03-01,Retail Trade,24.34,trade_transportation_utilities,0.18755945361799964
+2024-03-01,Total Private,34.67,total_private,0.17866588632477437
+2024-04-01,Construction,37.97,construction,0.1820469629844922
+2024-04-01,Education & Health Services,34.06,education_health,0.18753410822571615
+2024-04-01,Financial Activities,45.24,financial_activities,0.1949278462573418
+2024-04-01,Information,49.34,information,0.19532162262670064
+2024-04-01,Leisure & Hospitality,21.87,leisure_hospitality,0.18589850479139253
+2024-04-01,Manufacturing,33.62,manufacturing,0.1836635812227041
+2024-04-01,Mining & Logging,39.69,mining_logging,0.18932441964122015
+2024-04-01,Professional & Business Services,41.79,professional_business_services,0.1811718476462764
+2024-04-01,Retail Trade,24.32,trade_transportation_utilities,0.18755945361799964
+2024-04-01,Total Private,34.75,total_private,0.17866588632477437
+2024-05-01,Construction,38.0,construction,0.1820469629844922
+2024-05-01,Education & Health Services,34.2,education_health,0.18753410822571615
+2024-05-01,Financial Activities,45.48,financial_activities,0.1949278462573418
+2024-05-01,Information,49.46,information,0.19532162262670064
+2024-05-01,Leisure & Hospitality,21.94,leisure_hospitality,0.18589850479139253
+2024-05-01,Manufacturing,33.8,manufacturing,0.1836635812227041
+2024-05-01,Mining & Logging,39.62,mining_logging,0.18932441964122015
+2024-05-01,Professional & Business Services,41.96,professional_business_services,0.1811718476462764
+2024-05-01,Retail Trade,24.44,trade_transportation_utilities,0.18755945361799964
+2024-05-01,Total Private,34.89,total_private,0.17866588632477437
+2024-06-01,Construction,38.1,construction,0.1820469629844922
+2024-06-01,Education & Health Services,34.32,education_health,0.18753410822571615
+2024-06-01,Financial Activities,45.52,financial_activities,0.1949278462573418
+2024-06-01,Information,49.75,information,0.19532162262670064
+2024-06-01,Leisure & Hospitality,22.01,leisure_hospitality,0.18589850479139253
+2024-06-01,Manufacturing,34.0,manufacturing,0.1836635812227041
+2024-06-01,Mining & Logging,39.75,mining_logging,0.18932441964122015
+2024-06-01,Professional & Business Services,42.15,professional_business_services,0.1811718476462764
+2024-06-01,Retail Trade,24.43,trade_transportation_utilities,0.18755945361799964
+2024-06-01,Total Private,35.0,total_private,0.17866588632477437
+2024-07-01,Construction,38.26,construction,0.1820469629844922
+2024-07-01,Education & Health Services,34.42,education_health,0.18753410822571615
+2024-07-01,Financial Activities,45.63,financial_activities,0.1949278462573418
+2024-07-01,Information,49.92,information,0.19532162262670064
+2024-07-01,Leisure & Hospitality,22.06,leisure_hospitality,0.18589850479139253
+2024-07-01,Manufacturing,34.08,manufacturing,0.1836635812227041
+2024-07-01,Mining & Logging,39.67,mining_logging,0.18932441964122015
+2024-07-01,Professional & Business Services,42.21,professional_business_services,0.1811718476462764
+2024-07-01,Retail Trade,24.45,trade_transportation_utilities,0.18755945361799964
+2024-07-01,Total Private,35.07,total_private,0.17866588632477437
+2024-08-01,Construction,38.37,construction,0.1820469629844922
+2024-08-01,Education & Health Services,34.54,education_health,0.18753410822571615
+2024-08-01,Financial Activities,45.87,financial_activities,0.1949278462573418
+2024-08-01,Information,50.27,information,0.19532162262670064
+2024-08-01,Leisure & Hospitality,22.14,leisure_hospitality,0.18589850479139253
+2024-08-01,Manufacturing,34.18,manufacturing,0.1836635812227041
+2024-08-01,Mining & Logging,39.75,mining_logging,0.18932441964122015
+2024-08-01,Professional & Business Services,42.45,professional_business_services,0.1811718476462764
+2024-08-01,Retail Trade,24.54,trade_transportation_utilities,0.18755945361799964
+2024-08-01,Total Private,35.23,total_private,0.17866588632477437
+2024-09-01,Construction,38.59,construction,0.1820469629844922
+2024-09-01,Education & Health Services,34.69,education_health,0.18753410822571615
+2024-09-01,Financial Activities,45.88,financial_activities,0.1949278462573418
+2024-09-01,Information,50.4,information,0.19532162262670064
+2024-09-01,Leisure & Hospitality,22.2,leisure_hospitality,0.18589850479139253
+2024-09-01,Manufacturing,34.26,manufacturing,0.1836635812227041
+2024-09-01,Mining & Logging,39.91,mining_logging,0.18932441964122015
+2024-09-01,Professional & Business Services,42.7,professional_business_services,0.1811718476462764
+2024-09-01,Retail Trade,24.59,trade_transportation_utilities,0.18755945361799964
+2024-09-01,Total Private,35.33,total_private,0.17866588632477437
+2024-10-01,Construction,38.68,construction,0.1820469629844922
+2024-10-01,Education & Health Services,34.77,education_health,0.18753410822571615
+2024-10-01,Financial Activities,46.11,financial_activities,0.1949278462573418
+2024-10-01,Information,51.48,information,0.19532162262670064
+2024-10-01,Leisure & Hospitality,22.27,leisure_hospitality,0.18589850479139253
+2024-10-01,Manufacturing,34.36,manufacturing,0.1836635812227041
+2024-10-01,Mining & Logging,39.99,mining_logging,0.18932441964122015
+2024-10-01,Professional & Business Services,42.9,professional_business_services,0.1811718476462764
+2024-10-01,Retail Trade,24.73,trade_transportation_utilities,0.18755945361799964
+2024-10-01,Total Private,35.48,total_private,0.17866588632477437
+2024-11-01,Construction,38.78,construction,0.1820469629844922
+2024-11-01,Education & Health Services,34.93,education_health,0.18753410822571615
+2024-11-01,Financial Activities,46.17,financial_activities,0.1949278462573418
+2024-11-01,Information,51.4,information,0.19532162262670064
+2024-11-01,Leisure & Hospitality,22.33,leisure_hospitality,0.18589850479139253
+2024-11-01,Manufacturing,34.47,manufacturing,0.1836635812227041
+2024-11-01,Mining & Logging,40.06,mining_logging,0.18932441964122015
+2024-11-01,Professional & Business Services,43.16,professional_business_services,0.1811718476462764
+2024-11-01,Retail Trade,24.93,trade_transportation_utilities,0.18755945361799964
+2024-11-01,Total Private,35.61,total_private,0.17866588632477437
+2024-12-01,Construction,38.94,construction,0.1820469629844922
+2024-12-01,Education & Health Services,35.01,education_health,0.18753410822571615
+2024-12-01,Financial Activities,46.37,financial_activities,0.1949278462573418
+2024-12-01,Information,51.04,information,0.19532162262670064
+2024-12-01,Leisure & Hospitality,22.4,leisure_hospitality,0.18589850479139253
+2024-12-01,Manufacturing,34.54,manufacturing,0.1836635812227041
+2024-12-01,Mining & Logging,39.95,mining_logging,0.18932441964122015
+2024-12-01,Professional & Business Services,43.33,professional_business_services,0.1811718476462764
+2024-12-01,Retail Trade,24.86,trade_transportation_utilities,0.18755945361799964
+2024-12-01,Total Private,35.68,total_private,0.17866588632477437
+2025-01-01,Construction,39.07,construction,0.1820469629844922
+2025-01-01,Education & Health Services,35.13,education_health,0.18753410822571615
+2025-01-01,Financial Activities,46.58,financial_activities,0.1949278462573418
+2025-01-01,Information,51.4,information,0.19532162262670064
+2025-01-01,Leisure & Hospitality,22.53,leisure_hospitality,0.18589850479139253
+2025-01-01,Manufacturing,34.73,manufacturing,0.1836635812227041
+2025-01-01,Mining & Logging,40.21,mining_logging,0.18932441964122015
+2025-01-01,Professional & Business Services,43.42,professional_business_services,0.1811718476462764
+2025-01-01,Retail Trade,24.97,trade_transportation_utilities,0.18755945361799964
+2025-01-01,Total Private,35.83,total_private,0.17866588632477437
+2025-02-01,Construction,39.12,construction,0.1820469629844922
+2025-02-01,Education & Health Services,35.17,education_health,0.18753410822571615
+2025-02-01,Financial Activities,46.73,financial_activities,0.1949278462573418
+2025-02-01,Information,51.46,information,0.19532162262670064
+2025-02-01,Leisure & Hospitality,22.57,leisure_hospitality,0.18589850479139253
+2025-02-01,Manufacturing,34.88,manufacturing,0.1836635812227041
+2025-02-01,Mining & Logging,40.18,mining_logging,0.18932441964122015
+2025-02-01,Professional & Business Services,43.54,professional_business_services,0.1811718476462764
+2025-02-01,Retail Trade,25.04,trade_transportation_utilities,0.18755945361799964
+2025-02-01,Total Private,35.9,total_private,0.17866588632477437
+2025-03-01,Construction,39.21,construction,0.1820469629844922
+2025-03-01,Education & Health Services,35.13,education_health,0.18753410822571615
+2025-03-01,Financial Activities,47.02,financial_activities,0.1949278462573418
+2025-03-01,Information,51.43,information,0.19532162262670064
+2025-03-01,Leisure & Hospitality,22.7,leisure_hospitality,0.18589850479139253
+2025-03-01,Manufacturing,35.17,manufacturing,0.1836635812227041
+2025-03-01,Mining & Logging,40.2,mining_logging,0.18932441964122015
+2025-03-01,Professional & Business Services,43.68,professional_business_services,0.1811718476462764
+2025-03-01,Retail Trade,25.24,trade_transportation_utilities,0.18755945361799964
+2025-03-01,Total Private,36.02,total_private,0.17866588632477437
+2025-04-01,Construction,39.32,construction,0.1820469629844922
+2025-04-01,Education & Health Services,35.22,education_health,0.18753410822571615
+2025-04-01,Financial Activities,47.15,financial_activities,0.1949278462573418
+2025-04-01,Information,51.81,information,0.19532162262670064
+2025-04-01,Leisure & Hospitality,22.7,leisure_hospitality,0.18589850479139253
+2025-04-01,Manufacturing,35.09,manufacturing,0.1836635812227041
+2025-04-01,Mining & Logging,40.11,mining_logging,0.18932441964122015
+2025-04-01,Professional & Business Services,43.76,professional_business_services,0.1811718476462764
+2025-04-01,Retail Trade,25.28,trade_transportation_utilities,0.18755945361799964
+2025-04-01,Total Private,36.08,total_private,0.17866588632477437
+2025-05-01,Construction,39.44,construction,0.1820469629844922
+2025-05-01,Education & Health Services,35.4,education_health,0.18753410822571615
+2025-05-01,Financial Activities,47.4,financial_activities,0.1949278462573418
+2025-05-01,Information,52.16,information,0.19532162262670064
+2025-05-01,Leisure & Hospitality,22.73,leisure_hospitality,0.18589850479139253
+2025-05-01,Manufacturing,35.25,manufacturing,0.1836635812227041
+2025-05-01,Mining & Logging,40.26,mining_logging,0.18932441964122015
+2025-05-01,Professional & Business Services,44.0,professional_business_services,0.1811718476462764
+2025-05-01,Retail Trade,25.35,trade_transportation_utilities,0.18755945361799964
+2025-05-01,Total Private,36.23,total_private,0.17866588632477437
+2025-06-01,Construction,39.63,construction,0.1820469629844922
+2025-06-01,Education & Health Services,35.38,education_health,0.18753410822571615
+2025-06-01,Financial Activities,47.4,financial_activities,0.1949278462573418
+2025-06-01,Information,52.36,information,0.19532162262670064
+2025-06-01,Leisure & Hospitality,22.8,leisure_hospitality,0.18589850479139253
+2025-06-01,Manufacturing,35.33,manufacturing,0.1836635812227041
+2025-06-01,Mining & Logging,40.3,mining_logging,0.18932441964122015
+2025-06-01,Professional & Business Services,44.2,professional_business_services,0.1811718476462764
+2025-06-01,Retail Trade,25.37,trade_transportation_utilities,0.18755945361799964
+2025-06-01,Total Private,36.31,total_private,0.17866588632477437
+2025-07-01,Construction,39.72,construction,0.1820469629844922
+2025-07-01,Education & Health Services,35.46,education_health,0.18753410822571615
+2025-07-01,Financial Activities,47.59,financial_activities,0.1949278462573418
+2025-07-01,Information,52.5,information,0.19532162262670064
+2025-07-01,Leisure & Hospitality,22.86,leisure_hospitality,0.18589850479139253
+2025-07-01,Manufacturing,35.48,manufacturing,0.1836635812227041
+2025-07-01,Mining & Logging,40.39,mining_logging,0.18932441964122015
+2025-07-01,Professional & Business Services,44.4,professional_business_services,0.1811718476462764
+2025-07-01,Retail Trade,25.52,trade_transportation_utilities,0.18755945361799964
+2025-07-01,Total Private,36.43,total_private,0.17866588632477437
+2025-08-01,Construction,39.96,construction,0.1820469629844922
+2025-08-01,Education & Health Services,35.64,education_health,0.18753410822571615
+2025-08-01,Financial Activities,47.72,financial_activities,0.1949278462573418
+2025-08-01,Information,52.65,information,0.19532162262670064
+2025-08-01,Leisure & Hospitality,22.96,leisure_hospitality,0.18589850479139253
+2025-08-01,Manufacturing,35.55,manufacturing,0.1836635812227041
+2025-08-01,Mining & Logging,40.54,mining_logging,0.18932441964122015
+2025-08-01,Professional & Business Services,44.62,professional_business_services,0.1811718476462764
+2025-08-01,Retail Trade,25.59,trade_transportation_utilities,0.18755945361799964
+2025-08-01,Total Private,36.58,total_private,0.17866588632477437
+2025-09-01,Construction,40.0,construction,0.1820469629844922
+2025-09-01,Education & Health Services,35.55,education_health,0.18753410822571615
+2025-09-01,Financial Activities,47.92,financial_activities,0.1949278462573418
+2025-09-01,Information,52.88,information,0.19532162262670064
+2025-09-01,Leisure & Hospitality,23.01,leisure_hospitality,0.18589850479139253
+2025-09-01,Manufacturing,35.67,manufacturing,0.1836635812227041
+2025-09-01,Mining & Logging,40.36,mining_logging,0.18932441964122015
+2025-09-01,Professional & Business Services,44.72,professional_business_services,0.1811718476462764
+2025-09-01,Retail Trade,25.62,trade_transportation_utilities,0.18755945361799964
+2025-09-01,Total Private,36.65,total_private,0.17866588632477437
+2025-10-01,Construction,40.12,construction,0.1820469629844922
+2025-10-01,Education & Health Services,35.81,education_health,0.18753410822571615
+2025-10-01,Financial Activities,48.18,financial_activities,0.1949278462573418
+2025-10-01,Information,53.42,information,0.19532162262670064
+2025-10-01,Leisure & Hospitality,23.07,leisure_hospitality,0.18589850479139253
+2025-10-01,Manufacturing,35.83,manufacturing,0.1836635812227041
+2025-10-01,Mining & Logging,40.7,mining_logging,0.18932441964122015
+2025-10-01,Professional & Business Services,44.87,professional_business_services,0.1811718476462764
+2025-10-01,Retail Trade,25.76,trade_transportation_utilities,0.18755945361799964
+2025-10-01,Total Private,36.81,total_private,0.17866588632477437
+2025-11-01,Construction,40.23,construction,0.1820469629844922
+2025-11-01,Education & Health Services,35.82,education_health,0.18753410822571615
+2025-11-01,Financial Activities,48.27,financial_activities,0.1949278462573418
+2025-11-01,Information,53.28,information,0.19532162262670064
+2025-11-01,Leisure & Hospitality,23.18,leisure_hospitality,0.18589850479139253
+2025-11-01,Manufacturing,35.91,manufacturing,0.1836635812227041
+2025-11-01,Mining & Logging,40.54,mining_logging,0.18932441964122015
+2025-11-01,Professional & Business Services,44.97,professional_business_services,0.1811718476462764
+2025-11-01,Retail Trade,25.93,trade_transportation_utilities,0.18755945361799964
+2025-11-01,Total Private,36.9,total_private,0.17866588632477437
+2025-12-01,Construction,40.37,construction,0.1820469629844922
+2025-12-01,Education & Health Services,35.91,education_health,0.18753410822571615
+2025-12-01,Financial Activities,48.53,financial_activities,0.1949278462573418
+2025-12-01,Information,53.61,information,0.19532162262670064
+2025-12-01,Leisure & Hospitality,23.28,leisure_hospitality,0.18589850479139253
+2025-12-01,Manufacturing,36.07,manufacturing,0.1836635812227041
+2025-12-01,Mining & Logging,40.87,mining_logging,0.18932441964122015
+2025-12-01,Professional & Business Services,45.07,professional_business_services,0.1811718476462764
+2025-12-01,Retail Trade,26.05,trade_transportation_utilities,0.18755945361799964
+2025-12-01,Total Private,37.02,total_private,0.17866588632477437
