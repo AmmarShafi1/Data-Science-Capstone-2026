@@ -38,6 +38,8 @@ wheels/
 .DS_Store
 Thumbs.db
 
+*Old_Files/*
+
 # Large data files (optional - uncomment if needed)
 # *.csv
 # onet_db/
